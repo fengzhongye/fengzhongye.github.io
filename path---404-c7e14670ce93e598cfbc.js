@@ -1,0 +1,2 @@
+webpackJsonp([0xe70826b53c04],{401:function(t,e){t.exports={data:{site:{siteMetadata:{title:"个人博客",subtitle:"",copyright:"© 版权所有",menu:[{label:"文章",path:"/"},{label:"关于我",path:"/about/"},{label:"联系我",path:"/contact/"}],author:{name:"鸡蛋碰石头",email:"1439653800@qq.com",twitter:"fengzhongye1990",github:"fengzhongye"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---404-c7e14670ce93e598cfbc.js.map
